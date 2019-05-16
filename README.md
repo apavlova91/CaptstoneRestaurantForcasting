@@ -1,4 +1,4 @@
-# Project : Forecasting Future Restaurants Customer Visits.     
+# Project : Forecasting Future Visitors.     
 Author:  Anna Pavlova
 
 ## Problem Statement:

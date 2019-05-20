@@ -35,7 +35,7 @@ It is custom to treat restaurant visitor forecasting problems as time series pro
 |**date_info.csv_**|The file gives basic information about the calendar dates and date combination| 
 |**air_store_info.csv**|The file contains information about select restaurants| 
 |**air_reserve.csv**|The file contains reservations made in the system| 
-
+|**dataAll.csv**|The file contains merged database of all stores with engineered features|
 ### Data Sources:
 
 We used Kaggle Dataset 'Recruit Restaurant Visitor Forecasting'.
